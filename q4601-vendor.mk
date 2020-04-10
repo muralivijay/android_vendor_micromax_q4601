@@ -1,4 +1,4 @@
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/micromax/q4601/proprietary/proprietary/bin,system/bin)
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/micromax/q4601/proprietary/bin,system/bin)
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/micromax/q4601/proprietary/etc,system/etc)
 
